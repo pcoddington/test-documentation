@@ -27,7 +27,7 @@ Now we will do `something` followed by `something else`.
 
 A responsive, centered picture of something:
 
-<p><img src="/images/cloud.jpg" class="img-responsive center-block" alt="random image"/></p>
+<p><img src="{{ site.baseurl }}/images/cloud.jpg" class="img-responsive center-block" alt="random image"/></p>
 
 A table using [bootstrap](http://getbootstrap.com) styles:
 

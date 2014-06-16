@@ -1,4 +1,11 @@
+---
+---
+
 body {
   font-family: sans-serif;
-  background: url(/images/body-bg.gif) repeat-x #fff;
+  background: url({{ site.baseurl }}/images/body-bg.gif) repeat-x #fff;
+}
+
+.jumbotron {
+  background-color: #fff;
 }

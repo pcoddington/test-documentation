@@ -10,3 +10,5 @@ kramdown:
 timezone: Australia/Adelaide
 
 relative_permalinks: false
+
+baseurl: /test-documentation
