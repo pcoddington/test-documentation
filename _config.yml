@@ -1,0 +1,12 @@
+name: eResearch SA
+title: eResearch SA
+
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM
+
+timezone: Australia/Adelaide
+
+relative_permalinks: false
